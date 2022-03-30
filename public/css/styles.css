@@ -1,0 +1,13 @@
+body{
+    background-color: #8FBDD3;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+.lock{
+    position: absolute;
+    top:60px;
+    left: 48%;
+}
